@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=varma-dr&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=varma-dr&color=blue)
 
 - 👋 Hi, I’m @varma-dr
 - 👀 I’m interested in Java FullStack Web Development 
