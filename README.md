@@ -1,13 +1,29 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=varma-dr&color=blue)
 
-- 👋 Hi, I’m @varma-dr
-- 👀 I’m interested in Java FullStack Web Development 
-- 🌱 I’m currently working on React, NodeJS and GraphQL
+# 👋 Hey there, I'm Dileep Varma (varma-dr)
+
+🚀 **Java Full-Stack Developer | AWS Certified Solutions Architect – Associate**
+
+I build scalable, high-performance web applications using **Java (8-21)**, **Spring Boot**, **React.js**, **Node.js**, and **AWS Cloud**.  
+Passionate about designing clean architectures, writing maintainable code, and delivering software that makes an impact.
+
+---
+
+### 💻 What I Do
+- ⚙️ Develop and optimize **RESTful microservices** with Spring Boot & Java  
+- 🌐 Create responsive, reusable **React.js UI components**  
+- ☁️ Deploy and manage cloud-native apps on **AWS (EC2, Lambda, S3, API Gateway)**  
+- 🔁 Implement CI/CD pipelines using **Jenkins, Docker, Kubernetes**  
+- 🧠 Explore **GraphQL** and **Node.js** for API and backend innovation  
+
+---
+
+### 🧩 Current Focus
+- Enhancing skills in **GraphQL**, **AWS serverless**, and **microservice architecture**
+- Building personal projects integrating **Spring Boot + React + AWS**
 
 
+---
 
+> “Code with clarity, design for scalability, and deliver with impact.”
 
-<!---
-varma-dr/varma-dr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
