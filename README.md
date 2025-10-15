@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @varma-dr
 - 👀 I’m interested in Java FullStack Web Development 
-- 🌱 I’m currently learning React, NodeJS and GraphQL
+- 🌱 I’m currently working on React, NodeJS and GraphQL
 
 
 
