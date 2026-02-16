@@ -19,11 +19,9 @@ Passionate about designing clean architectures, writing maintainable code, and d
 ---
 
 ### 🧩 Current Focus
-- Enhancing skills in **GraphQL**, **AWS serverless**, and **microservice architecture**
 - Building personal projects integrating **Spring Boot + React + AWS**
 
 
 ---
 
-> “Code with clarity, design for scalability, and deliver with impact.”
 
