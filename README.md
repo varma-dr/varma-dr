@@ -38,7 +38,7 @@ I build scalable, high-performance backend systems and full-stack web applicatio
 
 ### 🏅 Highlights
 - 📜 **AWS Certified Solutions Architect – Associate**
-- 📄 Published AI/ML research — *A One-Stop Service Provider for Farmers Using Machine Learning* (Springer, 2023) · [Paper]([PUBLICATION_LINK])
+- 📄 Published AI/ML research — *A One-Stop Service Provider for Farmers Using Machine Learning* (Springer, 2023) · [Paper]([https://www.researchgate.net/publication/366779946_A_One-Stop_Service_Provider_for_Farmers_Using_Machine_Learning])
 - 🌱 **Google Summer of Code** — Open Source Contributor
 - 🎓 M.S. Computer Science, University of Texas at Arlington
 
