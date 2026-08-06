@@ -2,7 +2,7 @@
 
 ### Software Engineer · Java · Spring Boot · Microservices · AWS Certified Solutions Architect
 
-I build scalable, high-performance backend systems and full-stack web applications using **Java (8–21)**, **Spring Boot**, **React.js**, **Node.js**, and **AWS**. I care about clean architecture, maintainable code, and systems that stay reliable under load.
+I build scalable, high-performance backend systems and full-stack web applications using **Java (8-21)**, **Spring Boot**, **React.js**, **Node.js**, and **AWS**. I care about clean architecture, maintainable code, and systems that stay reliable under load.
 
 ---
 
